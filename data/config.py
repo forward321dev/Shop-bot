@@ -1,9 +1,9 @@
-BOT_TOKEN = '**********:**************************'
+BOT_TOKEN = '6744263591:AAHyPiG0glf_Cz_V3vx0hieNTFgeja43chc'
 
-PROJECT_NAME = 'store-bot-example'
+PROJECT_NAME = 'Iz-pod_prilavka'
 
 WEBHOOK_HOST = f"https://{PROJECT_NAME}.herokuapp.com"
 WEBHOOK_PATH = '/webhook/' + BOT_TOKEN
 WEBHOOK_URL = f'{WEBHOOK_HOST}{WEBHOOK_PATH}'
 
-ADMINS = [000000000, 1234567890]
+ADMINS = [6453602698]
